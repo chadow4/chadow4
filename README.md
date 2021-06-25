@@ -1,4 +1,5 @@
-![xwNFjbgF_b13g2rn4OUgk_99N4OgfuqH484gANfaZ3lb-sYqcyd-jrfJMSfNKsE7ut_P96U0YN0_GuNu-IGcVq65ULgWKqcD3ZIX1yHLVcStOhXSi8MdlMO8i2pGq9KaEsG4mH1VFXsfh0x6hrkrREJ2wbsMnzqN1u6KFwLWeWE](https://user-images.githubusercontent.com/73313152/123486007-8b995c00-d60b-11eb-824e-8a839d078f0b.gif)
+![Forum Signature Banner](https://user-images.githubusercontent.com/73313152/123486240-f2b71080-d60b-11eb-9602-9023ba0e0762.png)
+
 ### Hi there 👋
 
 
