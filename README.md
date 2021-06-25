@@ -1,4 +1,6 @@
-                      ![Forum Signature Banner](https://user-images.githubusercontent.com/73313152/123486240-f2b71080-d60b-11eb-9602-9023ba0e0762.png)
+<p align="center">
+  <img width="460" height="300" src="https://jardinage.lemonde.fr/images/dossiers/categories3/racedecien-083123-650-325.jpg">
+</p>
 
 ### Hi there 👋
 
