@@ -2,7 +2,7 @@
   <img width="800px" src="http://chadow4.fr/Efect.png">
 </p>
 
-**Hi, I'm Chadow4 **  <br>
+Hi, I'm Chadow4
 
 French student in computer science passionate about System Administration, Web development and Cybersecurity !
 
