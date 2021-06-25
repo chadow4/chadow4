@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://jardinage.lemonde.fr/images/dossiers/categories3/racedecien-083123-650-325.jpg">
+  <img  src="https://jardinage.lemonde.fr/images/dossiers/categories3/racedecien-083123-650-325.jpg">
 </p>
 
 ### Hi there 👋
