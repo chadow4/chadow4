@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="75%" src="http://chadow4.fr/Effect.png">
+  <img width="75%" src="http://chadow4.fr/Efect.png">
 </p>
 
 
