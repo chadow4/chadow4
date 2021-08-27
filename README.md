@@ -32,6 +32,7 @@ French student in computer science passionate about Web development, Graphism, S
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=branlito">
+    <img src="https://komarev.com/ghpvc/?username=chadow4">
 </a>
-<a href="https://github.com/branlito?tab=followers"><img src="https://img.shields.io/github/followers/branlito?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/chadow4?tab=followers"><img src="https://img.shields.io/github/followers/chadow4?label=Followers&style=social" alt="GitHub Badge"></a>
+
