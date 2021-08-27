@@ -29,3 +29,9 @@ French student in computer science passionate about Web development, Graphism, S
     <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/console.png"/> </a>
 </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=branlito">
+</a>
+<a href="https://github.com/branlito?tab=followers"><img src="https://img.shields.io/github/followers/branlito?label=Followers&style=social" alt="GitHub Badge"></a>
