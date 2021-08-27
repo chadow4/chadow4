@@ -10,7 +10,7 @@ My Website : http://chadow4.fr/* <br>
 *I propose my services of creation of WebSite* 💻 <br> 
 *Contact me : chadow.video@gmail.com*
 
-## 🚀 Languages and Tools:
+## 💻 Languages and Tools:
 
 <br>
 
