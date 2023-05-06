@@ -47,7 +47,7 @@
     <a href="https://fedoraproject.org/" target="_blank"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/> </a>
     <a href="https://www.kali.org/" target="_blank"> <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> </a> <br><br>
-    <img width="200px" src="https://devopstuto-docker.readthedocs.io/en/latest/_images/docker-swarm.gif"/>
+    <img width="350px" src="https://miro.medium.com/v2/resize:fit:1400/0*ijEA6ocv7g-ggbTZ.gif"/>
 
      
     
