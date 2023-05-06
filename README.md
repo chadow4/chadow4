@@ -67,12 +67,12 @@
     <br>
   <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadow4&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chadow4&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=chadow4&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chadow4&theme=dark&hide_border=false"/>
     
-     </div>
-      <br>
-      <br>
+  </div>
+  <br>
+  <br>
       
 ## ❤ Views and Followers
       
