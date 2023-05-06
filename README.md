@@ -6,7 +6,7 @@
 
 <h3 align="center">French student in cybersecurity at National Institute of Applied Sciences (INSA).<h3>
 
-<h3 align="center"> Im passionned by web development, system administration and data security ! </h3>
+<h3 align="center"> Im passionned by web development, system administration and Cybersecurity ! 🧑🏻‍💻 </h3>
 
  <div align="center">
    <p>My Website : https://julien.jsmb.fr</p> 
