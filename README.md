@@ -9,16 +9,17 @@
 <h3 align="center"> Im passionned by web development, system administration and data security ! </h3>
 
  <div align="center">
-My Website : https://julien.jsmb.fr <br>
-I propose my services of creation of WebSite 💻 <br> 
-   Contact me : chadow.video@gmail.com
+   <p>My Website : https://julien.jsmb.fr</p> 
+   <p> I propose my services of creation of WebSite 💻</p> 
+   <p> Contact me : chadow.video@gmail.com </p>
   </div>
   
 ## 💻 Languages and Tools:
 
 <br>
+<br>
 
-<p align="center"> 
+<div align="center"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> </a> 
@@ -49,20 +50,31 @@ I propose my services of creation of WebSite 💻 <br>
      
 
 
+<br>
+<br>
 
 
-
-</p>
+</div>
   
+
 ## 📈 Statistics
+      
+   <br>
+    <br>
   <div align="center">
   <img src="https://github-readme-stats-defcon27.vercel.app/api?username=chadow4&show_icons=true&line_height=21&theme=react"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadow4&layout=compact"/>
      </div>
+      <br>
+      <br>
       
 ## ❤ Views and Followers
+      
+  <br>
+   <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chadow4">
 </a>
 <a href="https://github.com/chadow4?tab=followers"><img src="https://img.shields.io/github/followers/chadow4?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<br>
+<br>
