@@ -1,7 +1,9 @@
 <p align="center">
   <img width="550px"  align="center" src="https://zupimages.net/up/22/36/6z0k.png" alt="Effect5">
 </p>
-
+<br>
+<br>
+<br>
 <h1 align="center">Hi, I'm Julien aka ϟ cнαdσω ϟ ツ <img  width="25px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
 
 <h3 align="center">French student in cybersecurity at National Institute of Applied Sciences (INSA).<h3>
@@ -74,10 +76,8 @@
 ## ❤ Views and Followers
       
   <br>
-   <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chadow4">
 </a>
 <a href="https://github.com/chadow4?tab=followers"><img src="https://img.shields.io/github/followers/chadow4?label=Followers&style=social" alt="GitHub Badge"></a>
-<br>
 <br>
