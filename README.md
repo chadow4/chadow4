@@ -62,8 +62,9 @@
    <br>
     <br>
   <div align="center">
-  <img src="https://github-readme-stats-defcon27.vercel.app/api?username=chadow4&show_icons=true&line_height=21&theme=react"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadow4&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chadow4&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chadow4&theme=dark&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadow4&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
      </div>
       <br>
       <br>
