@@ -5,7 +5,11 @@
 <h1 align="center">Hi, I'm Julien aka ϟ cнαdσω ϟ ツ <img  width="25px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
 <h3 align="center">French student engineer in Cybersecurity at <a href="https://www.groupe-insa.fr/">National Institute of Applied Sciences (INSA)</a>. <h3>
 
-<h6 align="justify">
+ <h6> <blockquote>
+     <p>In the realm of bytes and bits, the universe's expanse is bounded only by the limits of our creativity. Infinity lies not in the depth of networks, but in the ingenuity of the minds that navigate them. And within the ceaseless stream of data, it is peace the harmony between users and systems that unlocks the true potential for innovation and digital concord.</p>
+      <footer>— Julien Sanchez, 2022</footer>
+    </blockquote></p></h6>
+<h5 align="center">
      <p> - My personal Website: https://julien.jsmb.fr</p> 
      <p> - Freelance Developer and Cybersecurity Enthusiast 💻</p> 
      <p> - Motorcycle Adventurer and Piano Aficionado 🏍️🎹</p>
