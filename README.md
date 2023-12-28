@@ -7,7 +7,8 @@
 
 <h5 align="center">
      <p> - My personal Website: https://julien.jsmb.fr</p> 
-     <p> - Freelance Developer and Cybersecurity Enthusiast 💻</p> 
+     <p> - Freelance Developer and Cybersecurity Enthusiast 💻</p>
+      <p> -  RootMe Profile : https://www.root-me.org/chadow4 </p>
      <p> - Motorcycle Adventurer and Piano Aficionado 🏍️🎹</p>
      <p> - Let's connect and create something impactful together!</p>
      <p> - Contact me: chadow.video@gmail.com </p>
@@ -34,11 +35,11 @@
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" </a>  <br><br>
-       <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> </a>
+    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> </a>
     <a href="https://expressjs.com/fr/" target="_blank"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> </a> 
     <a href="https://nestjs.com/" target="_blank"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/> </a> 
-    <a href="https://angular.io/" target="_blank"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> </a> 
-    <a href="https://fr.legacy.reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </a> 
+    <a href="https://angular.dev/" target="_blank"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> </a> 
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </a> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> </a>
     <a href="https://symfony.com/" target="_blank"> <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/> </a> <br><br>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> </a>
