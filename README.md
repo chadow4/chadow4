@@ -15,7 +15,7 @@
 </h5>
 
  <h6> <blockquote>
-     <p>In the realm of bytes and bits, the universe's expanse is bounded only by the limits of our creativity. Infinity lies not in the depth of networks, but in the ingenuity of the minds that navigate them. And within the ceaseless stream of data, it is peace the harmony between users and systems that unlocks the true potential for innovation and digital concord.</p>
+     <p>In the realm of bytes and bits, the universe's expanse is bounded only by the limits of our creativity. Infinity lies not in the depth of networks, but in the ingenuity of the minds that navigate them.</p>
       <footer>— Julien Sanchez, 2022</footer>
     </blockquote></p></h6>
 
