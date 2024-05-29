@@ -9,7 +9,7 @@
      <p> - My personal Website: https://julien.jsmb.fr</p> 
      <p> - Freelance Developer and Cybersecurity Enthusiast 💻</p>
       <p> -  RootMe Profile : https://www.root-me.org/chadow4 </p>
-     <p> - Motorcycle Adventurer and Piano Aficionado 🏍️🎹</p>
+     <p> - Motorcycle Adventurer and Piano enthusiast 🏍️🎹</p>
      <p> - Let's connect and create something impactful together!</p>
      <p> - Contact me: chadow.video@gmail.com </p>
 </h5>
