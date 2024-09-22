@@ -11,7 +11,6 @@
       <p> -  RootMe Profile : https://www.root-me.org/chadow4 </p>
      <p> - Motorcycle Adventurer and Piano enthusiast 🏍️🎹</p>
      <p> - Let's connect and create something impactful together!</p>
-     <p> - Contact me: chadow.video@gmail.com </p>
 </h5>
 
  <h6> <blockquote>
