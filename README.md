@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Julien aka ϟ cнαdσω ϟ ツ </h1>
-<h3 align="center">French student engineer in Cybersecurity at <a href="https://www.groupe-insa.fr/">National Institute of Applied Sciences (INSA)</a>. <h3>
+<h3 align="center">🇫🇷 French engineering student in Cybersecurity at <a href="https://www.groupe-insa.fr/">National Institute of Applied Sciences (INSA)</a>. <h3>
 
 <h5 align="center">
      <p> - My personal Website: https://julien.jsmb.fr</p> 
