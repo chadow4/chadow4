@@ -6,7 +6,7 @@
 <h3 align="center">🇫🇷 French engineering student in Cybersecurity at <a href="https://www.groupe-insa.fr/">National Institute of Applied Sciences (INSA)</a>. <h3>
 
 <h5 align="center">
-     <p> - My personal Website: https://julien.jsmb.fr</p> 
+     <p> - My personal Website: https://julien-schz.fr/</p> 
      <p> - Freelance Developer and Cybersecurity Enthusiast 💻</p>
       <p> -  RootMe Profile : https://www.root-me.org/chadow4 </p>
      <p> - Motorcycle Adventurer and Piano enthusiast 🏍️🎹</p>
