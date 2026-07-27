@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="75%" src="./chadow4-animated.webp" alt="CHADOW4 animated logo" />
+<img width="100%" src="./chadow4-animated.webp" alt="CHADOW4 animated logo" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-julien--schz.fr-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julien-schz.fr/)
 [![Root--Me](https://img.shields.io/badge/Root--Me-chadow4-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
@@ -18,7 +18,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="left" valign="top">
 
 ### `> IDENTITY_FILE`
 
@@ -35,7 +35,7 @@ I design software, study how systems fail, and turn what I learn into stronger a
 My world sits at the intersection of **offensive security**, **software engineering** and **creative problem-solving**.
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="left" valign="top">
 
 ### `> CURRENT_MODE`
 
@@ -68,7 +68,7 @@ SLEEP         ██░░░░░░░░  20%
 
 <table width="100%">
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="left" valign="top">
 
 ### ⚔️ OFFENSIVE
 
@@ -79,7 +79,7 @@ Vulnerability assessment
 Adversarial thinking
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="left" valign="top">
 
 ### 🛡️ ENGINEERING
 
@@ -90,7 +90,7 @@ Automation & tooling
 Clean, reliable code
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="left" valign="top">
 
 ### 🔒 DEFENSIVE
 
@@ -101,7 +101,7 @@ Security monitoring
 Incident-oriented thinking
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="left" valign="top">
 
 ### 🧠 EXPLORATION
 
@@ -131,7 +131,7 @@ Things not meant to break
 
 <br>
 
-<details align="center">
+<details>
 <summary><strong>🔒 &nbsp;CYBERSECURITY // offensive · defensive · research</strong></summary>
 <br>
 
@@ -149,7 +149,7 @@ Things not meant to break
 
 </details>
 
-<details align="center">
+<details>
 <summary><strong>🌐 &nbsp;WEB & MOBILE // interfaces · APIs · applications</strong></summary>
 <br>
 
@@ -163,7 +163,7 @@ Things not meant to break
 
 </details>
 
-<details align="center">
+<details>
 <summary><strong>💻 &nbsp;SOFTWARE ENGINEERING // low-level · backend · tooling</strong></summary>
 <br>
 
@@ -171,7 +171,7 @@ Things not meant to break
 
 </details>
 
-<details align="center">
+<details>
 <summary><strong>⚙️ &nbsp;DEVOPS & INFRASTRUCTURE // ship · automate · scale</strong></summary>
 <br>
 
@@ -184,7 +184,7 @@ Things not meant to break
 
 </details>
 
-<details align="center">
+<details>
 <summary><strong>💾 &nbsp;DATA // relational · document · persistence</strong></summary>
 <br>
 
@@ -220,7 +220,7 @@ Things not meant to break
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 
 ### `> BEYOND_THE_KEYBOARD`
 
@@ -231,7 +231,7 @@ When I'm not writing code or exploring attack surfaces:
 🧩 The next difficult problem
 
 </td>
-<td width="34%" align="center" valign="top">
+<td width="34%" align="left" valign="top">
 
 ### `> OPEN_CHANNEL`
 
@@ -243,7 +243,7 @@ Technical challenges
 Ideas that sound slightly impossible
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 
 ### `> PERSONAL_PROTOCOL`
 
