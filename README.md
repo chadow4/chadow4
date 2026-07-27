@@ -2,15 +2,91 @@
 
 <img width="75%" src="./chadow4-animated.webp" alt="CHADOW4 animated logo" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-julien--schz.fr-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julien-schz.fr/)
-[![Root--Me](https://img.shields.io/badge/Root--Me-chadow4-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
-[![GitHub](https://img.shields.io/badge/GitHub-chadow4-181717?style=for-the-badge&logo=github)](https://github.com/chadow4)
-[![Profile views](https://komarev.com/ghpvc/?username=chadow4&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/chadow4)
+<br>
 
-![Followers](https://img.shields.io/github/followers/chadow4?style=flat-square&logo=github&label=Followers&color=6C00FF)
-![Stars](https://img.shields.io/github/stars/chadow4?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Total%20Stars&color=00D9FF)
-![Focus](https://img.shields.io/badge/Focus-Offensive%20Security-ff006e?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-00c853?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=firefoxbrowser&logoColor=050816)](https://julien-schz.fr/)
+[![Root-Me](https://img.shields.io/badge/ROOT--ME_TOP_3%25-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
+[![GitHub](https://img.shields.io/badge/@CHADOW4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chadow4)
+[![Views](https://komarev.com/ghpvc/?username=chadow4&style=for-the-badge&color=007EC6&label=SIGNAL+INTERCEPTS)](https://github.com/chadow4)
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00C853?style=flat-square)
+![Location](https://img.shields.io/badge/NODE-FRANCE-0055A4?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-FF006E?style=flat-square)
+![Clearance](https://img.shields.io/badge/CLEARANCE-ROOT-8B5CF6?style=flat-square)
+
+<br><br>
+
+`01 // IDENTITY`　·　`02 // OPERATIONS`　·　`03 // ARSENAL`　·　`04 // PROTOCOL`
+
+</div>
+
+---
+
+<div align="center">
+
+## `01 // OPERATOR DOSSIER`
+
+<sub>IDENTITY VERIFIED · CONNECTION ENCRYPTED · PROFILE ACTIVE</sub>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="38%" align="left" valign="top">
+
+#### `SUBJECT_04`
+
+| Key | Value |
+|---|---|
+| **Alias** | `Chadow4` |
+| **Firstname** | `Julien` |
+| **Location** | France 🇫🇷 |
+| **Formation** | Cybersecurity Engineering |
+| **Institute** | INSA |
+| **Status** | `AVAILABLE_FOR_MISSIONS` |
+
+</td>
+<td width="62%" align="left" valign="top">
+
+#### `MISSION_STATEMENT`
+
+I build software, study how systems fail, and use offensive thinking to design stronger architectures.
+
+My work lives at the intersection of:
+
+```text
+OFFENSIVE SECURITY  ─────┐
+SOFTWARE ENGINEERING ────┼──► SECURE & CREATIVE SYSTEMS
+SYSTEMS THINKING ─────────┘
+```
+
+> Curiosity reveals the weakness. Engineering removes it.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+![Access](https://img.shields.io/badge/ACCESS_LEVEL-██████████_ROOT-00D9FF?style=for-the-badge)
+![Curiosity](https://img.shields.io/badge/CURIOSITY-██████████_MAX-8B5CF6?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/COFFEE-███████░░░_70%25-FF006E?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## `02 // ACTIVE OPERATIONS`
+
+<sub>FOUR DISCIPLINES · ONE OBJECTIVE · ZERO ASSUMPTIONS</sub>
 
 </div>
 
@@ -20,39 +96,52 @@
 <tr>
 <td width="50%" align="left" valign="top">
 
-### `> IDENTITY_FILE`
+### `⚔  RED TEAM // OFFENSIVE`
 
-```yaml
-alias:    Chadow4
-name:     Julien
-location: France
-role:     Cybersecurity Engineering Student
-school:   INSA
-```
+> Think like an attacker. See what others miss.
 
-I design software, study how systems fail, and turn what I learn into stronger architectures.
+`WEB EXPLOITATION` · `PENTESTING` · `ATTACK SURFACE`  
+`CTF` · `VULNERABILITY RESEARCH` · `ADVERSARIAL THINKING`
 
-My world sits at the intersection of **offensive security**, **software engineering** and **creative problem-solving**.
+**Primary tools:** Burp Suite, Metasploit, Nmap, sqlmap
 
 </td>
 <td width="50%" align="left" valign="top">
 
-### `> CURRENT_MODE`
+### `⬡  BUILD // ENGINEERING`
 
-```diff
-+ Breaking assumptions
-+ Building secure systems
-+ Solving CTF challenges
-+ Shipping real projects
-+ Learning every day
-```
+> Turn complex requirements into reliable systems.
 
-```text
-ACCESS LEVEL  ██████████  ROOT
-CURIOSITY     ██████████  MAX
-COFFEE        ███████░░░  70%
-SLEEP         ██░░░░░░░░  20%
-```
+`SECURE ARCHITECTURE` · `BACKEND` · `APIs`  
+`FULL-STACK` · `AUTOMATION` · `CLEAN CODE`
+
+**Primary stack:** TypeScript, Java, Python, PHP, Rust
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" valign="top">
+
+### `◉  BLUE TEAM // DEFENSIVE`
+
+> Detect faster. Respond smarter. Harden continuously.
+
+`SOC` · `THREAT DETECTION` · `DEVSECOPS`  
+`SIEM / SOAR` · `EDR` · `IDS / IPS` · `MITRE ATT&CK`
+
+**Primary mindset:** visibility, correlation, response
+
+</td>
+<td width="50%" align="left" valign="top">
+
+### `⌁  LAB // EXPLORATION`
+
+> Open the black box. Understand every layer.
+
+`REVERSE ENGINEERING` · `LINUX INTERNALS`  
+`NETWORK SECURITY` · `WIRELESS` · `NEW TECHNOLOGIES`
+
+**Current loop:** learn → test → break → understand → rebuild
 
 </td>
 </tr>
@@ -62,133 +151,80 @@ SLEEP         ██░░░░░░░░  20%
 
 <div align="center">
 
-## `// WHAT I DO`
+## `03 // ARSENAL`
 
-</div>
+<sub>LANGUAGES · FRAMEWORKS · SYSTEMS · TOOLS</sub>
 
-<table width="100%">
-<tr>
-<td width="25%" align="left" valign="top">
+<br><br>
 
-### ⚔️ OFFENSIVE
+<img width="470" src="https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,git,github,ts,js,python,java,kotlin,php,c,cpp,cs,rust,dart,nodejs,nestjs,react,angular,symfony,laravel,spring,flutter,mysql,postgres,mongodb,tailwind,vscode&perline=10" alt="Technology arsenal" />
 
-Web exploitation  
-Attack surface analysis  
-CTF & security research  
-Vulnerability assessment  
-Adversarial thinking
+<br><br>
 
-</td>
-<td width="25%" align="left" valign="top">
-
-### 🛡️ ENGINEERING
-
-Secure architecture  
-Backend systems & APIs  
-Full-stack applications  
-Automation & tooling  
-Clean, reliable code
-
-</td>
-<td width="25%" align="left" valign="top">
-
-### 🔒 DEFENSIVE
-
-SOC operations  
-Threat detection  
-DevSecOps pipelines  
-Security monitoring  
-Incident-oriented thinking
-
-</td>
-<td width="25%" align="left" valign="top">
-
-### 🧠 EXPLORATION
-
-Reverse engineering  
-Linux internals  
-Network security  
-New technologies  
-Things not meant to break
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## `// TECHNOLOGY MATRIX`
-
-`SECURITY` &nbsp;×&nbsp; `CODE` &nbsp;×&nbsp; `SYSTEMS` &nbsp;×&nbsp; `CREATIVITY`
-
-<br>
-
-<img width="540" src="https://skillicons.dev/icons?i=linux,kali,debian,docker,kubernetes,bash,git,gitlab,github,ts,js,python,java,kotlin,php,c,cpp,cs,rust,dart,nodejs,nestjs,express,react,angular,symfony,laravel,spring,flutter,mysql,postgres,mongodb,tailwind,bootstrap,vscode,unity&perline=12" alt="Technology stack" />
+`SELECT A MODULE TO DECRYPT ITS CONTENT`
 
 </div>
 
 <br>
 
 <details>
-<summary><strong>🔒 &nbsp;CYBERSECURITY // offensive · defensive · research</strong></summary>
+<summary><strong>🔒 &nbsp; MODULE_01 / CYBERSECURITY</strong>　<code>offensive · defensive · research</code></summary>
 <br>
 
-| Domain | Capabilities |
+| Sector | Capabilities |
 |---|---|
-| **Network analysis** | Wireshark · Nmap · Ettercap · tcpdump |
+| **Network reconnaissance** | Wireshark · Nmap · Ettercap · tcpdump |
 | **Penetration testing** | Metasploit · Burp Suite |
-| **Wireless security** | Aircrack-ng · Wifite |
+| **Wireless operations** | Aircrack-ng · Wifite |
 | **Credential auditing** | Hydra · John the Ripper · Medusa |
-| **Web vulnerabilities** | XSS · LFI · RFI · Path Traversal · CSRF · SSRF |
-| **SQL injection** | Manual testing · sqlmap |
+| **Web exploitation** | XSS · LFI · RFI · Path Traversal · CSRF · SSRF |
+| **Injection** | SQL injection · sqlmap |
 | **DevSecOps** | SAST · SCA · DAST · Container Scanning |
-| **SOC ecosystem** | SIEM · SOAR · EDR · IDS/IPS · MITRE ATT&CK |
-| **Capture the Flag** | [Root-Me — Top 3%](https://www.root-me.org/chadow4) · TryHackMe |
+| **Detection & response** | SIEM · SOAR · EDR · IDS/IPS · MITRE ATT&CK |
+| **CTF platforms** | [Root-Me — Top 3%](https://www.root-me.org/chadow4) · TryHackMe |
 
 </details>
 
 <details>
-<summary><strong>🌐 &nbsp;WEB & MOBILE // interfaces · APIs · applications</strong></summary>
+<summary><strong>🌐 &nbsp; MODULE_02 / WEB & MOBILE</strong>　<code>frontend · backend · cross-platform</code></summary>
 <br>
 
-| Layer | Technologies |
+| Sector | Technologies |
 |---|---|
-| **Frontend** | HTML · CSS/SCSS · Bootstrap · Tailwind CSS |
-| **JavaScript ecosystem** | JavaScript · TypeScript · Angular · React · Ionic · NestJS |
-| **PHP ecosystem** | PHP · Symfony · Laravel |
-| **JVM ecosystem** | Java · Kotlin · Spring Boot |
-| **Cross-platform** | Dart · Flutter |
+| **Interface** | HTML · CSS/SCSS · Bootstrap · Tailwind CSS |
+| **JavaScript** | JavaScript · TypeScript · Angular · React · Ionic · NestJS |
+| **PHP** | PHP · Symfony · Laravel |
+| **JVM** | Java · Kotlin · Spring Boot |
+| **Mobile** | Dart · Flutter |
 
 </details>
 
 <details>
-<summary><strong>💻 &nbsp;SOFTWARE ENGINEERING // low-level · backend · tooling</strong></summary>
+<summary><strong>💻 &nbsp; MODULE_03 / SOFTWARE</strong>　<code>low-level · applications · tooling</code></summary>
 <br>
 
-`Python` · `C` · `C#` · `C++` · `Rust` · `Java`
+`Python`　`C`　`C#`　`C++`　`Rust`　`Java`
 
 </details>
 
 <details>
-<summary><strong>⚙️ &nbsp;DEVOPS & INFRASTRUCTURE // ship · automate · scale</strong></summary>
+<summary><strong>⚙️ &nbsp; MODULE_04 / DEVOPS & INFRASTRUCTURE</strong>　<code>ship · automate · scale</code></summary>
 <br>
 
-| Domain | Technologies |
+| Sector | Technologies |
 |---|---|
-| **Version control** | Git · GitLab · GitHub |
+| **Source control** | Git · GitLab · GitHub |
 | **Delivery** | CI/CD pipelines |
-| **Containers** | Docker · Kubernetes |
+| **Orchestration** | Docker · Kubernetes |
 | **Virtualization** | VMware · VirtualBox · KVM · Proxmox |
 
 </details>
 
 <details>
-<summary><strong>💾 &nbsp;DATA // relational · document · persistence</strong></summary>
+<summary><strong>💾 &nbsp; MODULE_05 / DATA</strong>　<code>relational · document · persistence</code></summary>
 <br>
 
-| Domain | Technologies |
+| Sector | Technologies |
 |---|---|
 | **Relational** | MariaDB · MySQL · PostgreSQL · Oracle · PL/SQL |
 | **Document** | MongoDB |
@@ -196,63 +232,49 @@ Things not meant to break
 
 </details>
 
-<br>
-
-```text
-┌─[ CHADOW4 / OPERATING PRINCIPLES ]──────────────────────────────────────────┐
-│                                                                            │
-│  01. Understand the system before touching the system.                     │
-│  02. Curiosity is a weapon. Discipline is the safety.                      │
-│  03. Security is not a feature—it is part of the architecture.             │
-│  04. If it can be automated, it probably should be.                        │
-│  05. Leave every project stronger than you found it.                       │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
 <div align="center">
 
-## `// BEYOND THE CODE`
+## `04 // PERSONAL PROTOCOL`
 
-`LIFE` &nbsp;×&nbsp; `CURIOSITY` &nbsp;×&nbsp; `COLLABORATION`
+<sub>THE HUMAN PROCESS BEHIND THE MACHINE</sub>
 
 </div>
+
+<br>
 
 <table width="100%">
 <tr>
 <td width="33%" align="left" valign="top">
 
-### `> BEYOND_THE_KEYBOARD`
+#### `OFF_GRID`
 
-When I'm not writing code or exploring attack surfaces:
+🏍️ **Motorcycle**  
+Trading packets for mountain roads.
 
-🏍️ Motorcycle adventures  
-🎹 Piano sessions  
-🧩 The next difficult problem
+🎹 **Piano**  
+Turning structure and emotion into sound.
 
 </td>
 <td width="34%" align="left" valign="top">
 
-### `> OPEN_CHANNEL`
+#### `CORE_VALUES`
 
-I'm open to:
-
-Security & engineering projects  
-Open-source collaborations  
-Technical challenges  
-Ideas that sound slightly impossible
+01. Curiosity before certainty  
+02. Precision before speed  
+03. Practice before theory alone  
+04. Build what seems impossible
 
 </td>
 <td width="33%" align="left" valign="top">
 
-### `> PERSONAL_PROTOCOL`
+#### `OPEN_CHANNEL`
 
-What drives me:
-
-Curiosity before certainty  
-Precision before speed  
-Learning through experimentation  
-Ideas turned into working systems
+◈ Security projects  
+◈ Software engineering  
+◈ Open-source collaboration  
+◈ Technical challenges
 
 </td>
 </tr>
@@ -260,19 +282,26 @@ Ideas turned into working systems
 
 <br>
 
-<div align="center">
-
-### `ESTABLISH A SECURE CONNECTION`
-
-[![Website](https://img.shields.io/badge/ENTER_PORTFOLIO-00D9FF?style=for-the-badge&logo=firefoxbrowser&logoColor=050816)](https://julien-schz.fr/)
-[![Root-Me](https://img.shields.io/badge/VIEW_ROOT--ME_PROFILE-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
-
-<br>
-
 ```text
-root@chadow4:~# echo "Code with purpose. Secure by design."
+┌─[ CHADOW4 / RULESET ]───────────────────────────────────────────────────────┐
+│ Understand the system. Challenge the assumption. Automate the repetition.  │
+│ Secure the architecture. Leave every project stronger than you found it.   │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=shark&height=140&section=footer&color=0:02030a,45:6C00FF,100:00D9FF)
+---
+
+<div align="center">
+
+## `READY TO ESTABLISH A SECURE CONNECTION?`
+
+[![Enter portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-00D9FF?style=for-the-badge&logo=firefoxbrowser&logoColor=050816)](https://julien-schz.fr/)
+[![Open Root-Me](https://img.shields.io/badge/OPEN_ROOT--ME_PROFILE-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
+
+<br><br>
+
+`root@chadow4:~# echo "Code with purpose. Secure by design."`
+
+![Footer](https://capsule-render.vercel.app/api?type=shark&height=120&section=footer&color=0:02030a,45:6C00FF,100:00D9FF)
 
 </div>
