@@ -1,6 +1,6 @@
 <div align="center">
 
-![CHADOW4 — Offensive Security & Full-Stack Engineering](./assets/chadow4-banner.svg)
+![CHADOW4 — Offensive Security & Full-Stack Engineering](./chadow4-banner.svg)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E+Initializing+Chadow4...;%3E+Cybersecurity+%2F%2F+Full-Stack+Engineering;%3E+Breaking+systems+to+build+them+stronger.;%3E+Think.+Exploit.+Patch.+Repeat." alt="Animated introduction" />
