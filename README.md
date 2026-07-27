@@ -2,9 +2,7 @@
 
 ![CHADOW4 — Offensive Security & Full-Stack Engineering](./chadow4-banner.svg)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E+Initializing+Chadow4...;%3E+Cybersecurity+%2F%2F+Full-Stack+Engineering;%3E+Breaking+systems+to+build+them+stronger.;%3E+Think.+Exploit.+Patch.+Repeat." alt="Animated introduction" />
-</a>
+<img height="42" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=780&height=42&lines=%3E+Initializing+Chadow4...;%3E+Cybersecurity+%2F%2F+Full-Stack+Engineering;%3E+Breaking+systems+to+build+them+stronger.;%3E+Think.+Exploit.+Patch.+Repeat." alt="Animated introduction" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-julien--schz.fr-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julien-schz.fr/)
 [![Root--Me](https://img.shields.io/badge/Root--Me-chadow4-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
@@ -20,9 +18,9 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 ### `> IDENTITY_FILE`
 
@@ -39,7 +37,7 @@ I design software, study how systems fail, and turn what I learn into stronger a
 My world sits at the intersection of **offensive security**, **software engineering** and **creative problem-solving**.
 
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
 ### `> CURRENT_MODE`
 
@@ -70,7 +68,7 @@ SLEEP         ██░░░░░░░░  20%
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
 
@@ -129,16 +127,9 @@ Things not meant to break
 
 <br>
 
-![Systems](https://skillicons.dev/icons?i=linux,kali,debian,docker,kubernetes,bash,git,gitlab,github)
-
-![Languages](https://skillicons.dev/icons?i=ts,js,python,java,kotlin,php,c,cpp,cs,rust,dart)
-
-![Applications](https://skillicons.dev/icons?i=nodejs,nestjs,express,react,angular,symfony,laravel,spring,flutter)
-
-![Data](https://skillicons.dev/icons?i=mysql,postgres,mongodb,hibernate,tailwind,bootstrap,vscode)
+<img width="720" src="https://skillicons.dev/icons?i=linux,kali,debian,docker,kubernetes,bash,git,gitlab,github,ts,js,python,java,kotlin,php,c,cpp,cs,rust,dart,nodejs,nestjs,express,react,angular,symfony,laravel,spring,flutter,mysql,postgres,mongodb,tailwind,bootstrap,vscode,unity&perline=9" alt="Technology stack" />
 
 <br>
-
 
 </div>
 
@@ -231,41 +222,41 @@ Things not meant to break
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `> BEYOND_THE_KEYBOARD`
 
 When I'm not writing code or exploring attack surfaces:
 
-- 🏍️ I trade packets for mountain roads
-- 🎹 I turn logic into music at the piano
-- 🧩 I chase the next difficult problem
+🏍️ Motorcycle adventures  
+🎹 Piano sessions  
+🧩 The next difficult problem
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" align="center" valign="top">
 
 ### `> OPEN_CHANNEL`
 
 I'm open to:
 
-- Security and engineering projects
-- Open-source collaborations
-- Technical challenges
-- Ideas that sound slightly impossible
+Security & engineering projects  
+Open-source collaborations  
+Technical challenges  
+Ideas that sound slightly impossible
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `> PERSONAL_PROTOCOL`
 
 What drives me:
 
-- Curiosity before certainty
-- Precision before speed
-- Learning through experimentation
-- Turning ideas into working systems
+Curiosity before certainty  
+Precision before speed  
+Learning through experimentation  
+Ideas turned into working systems
 
 </td>
 </tr>
