@@ -44,77 +44,99 @@ I build full-stack applications, explore how systems fail and use offensive thin
 
 </div>
 
-### Cybersecurity
+<h3 align="center">Cybersecurity</h3>
 
 <div align="center">
 
 #### Offensive tools
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Ettercap](https://img.shields.io/badge/Ettercap-7F52FF?style=flat-square&logo=kalilinux&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-111111?style=flat-square&logo=linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00A4EF?style=flat-square&logo=kalilinux&logoColor=white)
-![Wifite](https://img.shields.io/badge/Wifite-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-008000?style=flat-square&logo=gnubash&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-9B111E?style=flat-square&logo=hackthebox&logoColor=white)
-![Medusa](https://img.shields.io/badge/Medusa-6A0DAD?style=flat-square&logo=gnubash&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=flat-square&logo=sqlite&logoColor=white)
+<img width="50" height="50" src="https://cdn.simpleicons.org/wireshark/1679A7" title="Wireshark" alt="Wireshark" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/metasploit/2596CD" title="Metasploit" alt="Metasploit" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/burpsuite/FF6633" title="Burp Suite" alt="Burp Suite" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/kalilinux/557C94" title="Aircrack-ng · Wifite · Ettercap" alt="Kali Linux tools" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/gnubash/4EAA25" title="Hydra · Medusa · tcpdump" alt="Command-line security tools" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/hackthebox/9FEF00" title="John the Ripper" alt="John the Ripper" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/sqlite/003B57" title="sqlmap" alt="sqlmap" />
 
 #### Web security
 
-![XSS](https://img.shields.io/badge/XSS-E34F26?style=flat-square&logo=owasp&logoColor=white)
-![LFI](https://img.shields.io/badge/LFI-8B0000?style=flat-square&logo=owasp&logoColor=white)
-![RFI](https://img.shields.io/badge/RFI-B22222?style=flat-square&logo=owasp&logoColor=white)
-![Path Traversal](https://img.shields.io/badge/Path_Traversal-D2691E?style=flat-square&logo=owasp&logoColor=white)
-![CSRF](https://img.shields.io/badge/CSRF-FF8C00?style=flat-square&logo=owasp&logoColor=white)
-![SSRF](https://img.shields.io/badge/SSRF-DC143C?style=flat-square&logo=owasp&logoColor=white)
-![SQL Injection](https://img.shields.io/badge/SQL_Injection-CC2927?style=flat-square&logo=owasp&logoColor=white)
+<img width="56" height="56" src="https://cdn.simpleicons.org/owasp/FFFFFF" title="OWASP · XSS · LFI · RFI · CSRF · SSRF · SQL Injection" alt="OWASP web security" />
+&nbsp;&nbsp;&nbsp;
+<img width="56" height="56" src="https://cdn.simpleicons.org/portswigger/FF6633" title="PortSwigger Web Security Academy" alt="PortSwigger" />
+&nbsp;&nbsp;&nbsp;
+<img width="56" height="56" src="https://cdn.simpleicons.org/hackthebox/9FEF00" title="Web exploitation labs" alt="Hack The Box" />
+
+<br>
+
+<sub>`XSS` · `LFI` · `RFI` · `PATH TRAVERSAL` · `CSRF` · `SSRF` · `SQL INJECTION`</sub>
 
 #### DevSecOps & SOC
 
-![SAST](https://img.shields.io/badge/SAST-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![SCA](https://img.shields.io/badge/SCA-4C4A73?style=flat-square&logo=dependabot&logoColor=white)
-![DAST](https://img.shields.io/badge/DAST-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Container Scanning](https://img.shields.io/badge/Container_Scanning-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
-![SOAR](https://img.shields.io/badge/SOAR-6C47FF?style=flat-square&logo=stackshare&logoColor=white)
-![EDR](https://img.shields.io/badge/EDR-E01F3D?style=flat-square&logo=crowdstrike&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-F15A24?style=flat-square&logo=suricata&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E4002B?style=flat-square&logoColor=white)
+<img width="50" height="50" src="https://cdn.simpleicons.org/sonarqubeserver/4E9BCD" title="SAST · SonarQube" alt="SonarQube" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/dependabot/025E8C" title="SCA · Dependabot" alt="Dependabot" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/owasp/FFFFFF" title="DAST · OWASP" alt="OWASP" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/docker/2496ED" title="Container scanning" alt="Docker" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/splunk/FFFFFF" title="SIEM · Splunk" alt="Splunk" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdstrike.svg" title="EDR · CrowdStrike" alt="CrowdStrike" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-R.png" title="IDS/IPS · Suricata" alt="Suricata" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/opsgenie/172B4D" title="SOAR · Incident response" alt="SOAR" />
 
 </div>
 
-### Infrastructure & data
+<h3 align="center">Infrastructure &amp; data</h3>
 
 <div align="center">
 
 #### Infrastructure
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-FF6600?style=flat-square&logo=linux&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+<img width="50" height="50" src="https://cdn.simpleicons.org/githubactions/2088FF" title="CI/CD · GitHub Actions" alt="GitHub Actions" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/gitlab/FC6D26" title="CI/CD · GitLab" alt="GitLab" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/vmware/607078" title="VMware" alt="VMware" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/virtualbox/183A61" title="VirtualBox" alt="VirtualBox" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/qemu/FF6600" title="KVM · QEMU" alt="QEMU KVM" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/proxmox/E57000" title="Proxmox" alt="Proxmox" />
 
 #### Databases
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<img width="50" height="50" src="https://cdn.simpleicons.org/mariadb/003545" title="MariaDB" alt="MariaDB" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL" alt="MySQL" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" alt="PostgreSQL" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle · PL/SQL" alt="Oracle" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB" alt="MongoDB" />
 
 #### ORM
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+<img width="50" height="50" src="https://cdn.simpleicons.org/hibernate/59666C" title="Hibernate" alt="Hibernate" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/doctrine/FC6A31" title="Doctrine" alt="Doctrine" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/typeorm/FE0803" title="TypeORM" alt="TypeORM" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/sequelize/52B0E7" title="Sequelize" alt="Sequelize" />
+&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.simpleicons.org/sqlalchemy/D71F00" title="SQLAlchemy" alt="SQLAlchemy" />
 
 </div>
 
