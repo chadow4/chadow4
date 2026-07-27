@@ -1,6 +1,6 @@
 <div align="center">
 
-![CHADOW4 — Offensive Security & Full-Stack Engineering](./chadow4-banner.svg)
+![CHADOW4 — Offensive Security & Full-Stack Engineering](./assets/chadow4-banner.svg)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E+Initializing+Chadow4...;%3E+Cybersecurity+%2F%2F+Full-Stack+Engineering;%3E+Breaking+systems+to+build+them+stronger.;%3E+Think.+Exploit.+Patch.+Repeat." alt="Animated introduction" />
@@ -18,144 +18,173 @@
 
 </div>
 
-<br />
+<br>
 
-```console
-┌──(visitor㉿github)-[~/profiles/chadow4]
-└─$ whoami --verbose
+<table>
+<tr>
+<td width="58%" valign="top">
 
-[+] Identity  : Chadow4
-[+] Firstname : Julien
-[+] Location  : France 🇫🇷
-[+] Role      : Cybersecurity Engineering Student
-[+] Mission   : Understand systems. Find weaknesses. Build them better.
-[+] Status    : ONLINE
+### `> IDENTITY_FILE`
+
+```yaml
+alias:    Chadow4
+name:     Julien
+location: France
+role:     Cybersecurity Engineering Student
+school:   INSA
 ```
 
-## 〔 About me 〕
+I design software, study how systems fail, and turn what I learn into stronger architectures.
 
-I'm a French cybersecurity engineering student at [INSA](https://www.groupe-insa.fr/), freelance developer and security enthusiast. I enjoy turning complex problems into reliable products—and then testing how they break.
+My world sits at the intersection of **offensive security**, **software engineering** and **creative problem-solving**.
 
-- 🔐 Exploring offensive security, pentesting and secure software design
-- 🧩 Playing CTF challenges on [Root-Me](https://www.root-me.org/chadow4)
-- 🛠️ Building full-stack applications, APIs and developer tooling
-- 🐧 Daily-driving Linux and containerized environments
-- 🏍️ Motorcycle adventurer and piano enthusiast
-- 🤝 Open to ambitious projects, collaborations and security challenges
+</td>
+<td width="42%" valign="top">
 
-<div align="center">
+### `> CURRENT_MODE`
+
+```diff
++ Breaking assumptions
++ Building secure systems
++ Solving CTF challenges
++ Shipping real projects
++ Learning every day
+```
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║  THERE IS NO PATCH FOR HUMAN CURIOSITY.                          ║
-╚══════════════════════════════════════════════════════════════════╝
+ACCESS LEVEL  ██████████  ROOT
+CURIOSITY     ██████████  MAX
+COFFEE        ███████░░░  70%
+SLEEP         ██░░░░░░░░  20%
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
-## 〔 Arsenal 〕
-
-<div align="center">
-
-### `01 // SECURITY & SYSTEMS`
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### `02 // LANGUAGES`
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### `03 // WEB & BACKEND`
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### `04 // DATA & TOOLING`
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## 〔 Intelligence dashboard 〕
+---
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chadow4&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=chadow4&theme=tokyonight" alt="Commits per day" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=chadow4&theme=transparent&hide_border=true&stroke=00D9FF&ring=BF00FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" alt="Contribution streak" />
-
-<br />
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chadow4&theme=tokyonight" alt="Chadow4 contribution details" />
+## `// WHAT I DO`
 
 </div>
 
-## 〔 Activity transmission 〕
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ⚔️ OFFENSIVE
+
+Web exploitation  
+Attack surface analysis  
+CTF & security research  
+Vulnerability assessment  
+Adversarial thinking
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🛡️ ENGINEERING
+
+Secure architecture  
+Backend systems & APIs  
+Full-stack applications  
+Automation & tooling  
+Clean, reliable code
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🧠 EXPLORATION
+
+Reverse engineering  
+Linux internals  
+Network security  
+New technologies  
+Things not meant to break
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-[![Chadow4 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chadow4&bg_color=00000000&color=00D9FF&line=BF00FF&point=FFFFFF&area=true&area_color=6C00FF&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL)](https://github.com/chadow4)
+## `// TECHNOLOGY MATRIX`
+
+`SECURITY` &nbsp;×&nbsp; `CODE` &nbsp;×&nbsp; `SYSTEMS` &nbsp;×&nbsp; `CREATIVITY`
+
+<br>
+
+![Linux](https://skillicons.dev/icons?i=linux,kali,debian,docker,bash,git)
+
+![Core languages](https://skillicons.dev/icons?i=ts,js,python,java,php,c,cs)
+
+![Web stack](https://skillicons.dev/icons?i=nodejs,nestjs,express,react,angular,symfony,spring)
+
+![Data and tools](https://skillicons.dev/icons?i=mysql,mongodb,tailwind,unity,vscode,github)
 
 </div>
 
-## 〔 Unlocked achievements 〕
+<br>
 
-<div align="center">
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=chadow4&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 〔 Deep scan 〕
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chadow4&theme=tokyonight&utcOffset=2" alt="Productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chadow4&theme=tokyonight" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chadow4&theme=tokyonight" alt="Most committed languages" />
-
-</div>
-
-## 〔 Establish connection 〕
-
-```console
-$ ./connect --with chadow4
-[*] Searching for ambitious ideas...
-[+] Security challenges accepted
-[+] Full-stack projects accepted
-[+] Open-source collaborations accepted
+```text
+┌─[ CHADOW4 / OPERATING PRINCIPLES ]──────────────────────────────────────────┐
+│                                                                            │
+│  01. Understand the system before touching the system.                     │
+│  02. Curiosity is a weapon. Discipline is the safety.                      │
+│  03. Security is not a feature—it is part of the architecture.             │
+│  04. If it can be automated, it probably should be.                        │
+│  05. Leave every project stronger than you found it.                       │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Have an idea, a security challenge or an ambitious project? Explore my work on [julien-schz.fr](https://julien-schz.fr/) or connect with me through [GitHub](https://github.com/chadow4).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `> BEYOND_THE_KEYBOARD`
+
+When I'm not writing code or exploring attack surfaces:
+
+- 🏍️ I trade packets for mountain roads
+- 🎹 I turn logic into music at the piano
+- 🧩 I chase the next difficult problem
+
+</td>
+<td width="50%" valign="top">
+
+### `> OPEN_CHANNEL`
+
+I'm open to:
+
+- Security and engineering projects
+- Open-source collaborations
+- Technical challenges
+- Ideas that sound slightly impossible
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-### `CODE WITH PURPOSE // SECURE BY DESIGN // ALWAYS LEARNING`
+### `ESTABLISH A SECURE CONNECTION`
 
-![Footer](https://capsule-render.vercel.app/api?type=shark&height=160&section=footer&color=0:050816,50:6C00FF,100:00D9FF)
+[![Website](https://img.shields.io/badge/ENTER_PORTFOLIO-00D9FF?style=for-the-badge&logo=firefoxbrowser&logoColor=050816)](https://julien-schz.fr/)
+[![Root-Me](https://img.shields.io/badge/VIEW_ROOT--ME_PROFILE-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
+
+<br>
+
+```text
+root@chadow4:~# echo "Code with purpose. Secure by design."
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=shark&height=140&section=footer&color=0:02030a,45:6C00FF,100:00D9FF)
 
 </div>
