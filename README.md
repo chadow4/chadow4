@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050816,50:6C00FF,100:00D9FF&text=CHADOW4&fontSize=82&fontAlignY=42&desc=ACCESS%20GRANTED&descAlignY=65&animation=fadeIn&fontColor=ffffff&stroke=00D9FF&strokeWidth=2)
+![CHADOW4 — Offensive Security & Full-Stack Engineering](./assets/chadow4-banner.svg)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E+Initializing+Chadow4...;%3E+Cybersecurity+%2F%2F+Full-Stack+Engineering;%3E+Breaking+systems+to+build+them+stronger.;%3E+Think.+Exploit.+Patch.+Repeat." alt="Animated introduction" />
@@ -101,12 +101,12 @@ I'm a French cybersecurity engineering student at [INSA](https://www.groupe-insa
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=chadow4&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=BF00FF&include_all_commits=true&count_private=true&rank_icon=percentile" alt="Chadow4 GitHub statistics" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadow4&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF" alt="Chadow4 most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chadow4&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=chadow4&theme=tokyonight" alt="Commits per day" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=chadow4&theme=transparent&hide_border=true&stroke=00D9FF&ring=BF00FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" alt="Chadow4 contribution streak" />
+<img src="https://streak-stats.demolab.com?user=chadow4&theme=transparent&hide_border=true&stroke=00D9FF&ring=BF00FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" alt="Contribution streak" />
 
 <br />
 
