@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./chadow4-animated.webp" alt="CHADOW4 animated logo" />
+<img width="75%" src="./chadow4-animated.webp" alt="CHADOW4 animated logo" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-julien--schz.fr-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julien-schz.fr/)
 [![Root--Me](https://img.shields.io/badge/Root--Me-chadow4-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
