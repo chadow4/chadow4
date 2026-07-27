@@ -72,7 +72,7 @@ SLEEP         ██░░░░░░░░  20%
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### ⚔️ OFFENSIVE
 
@@ -83,7 +83,7 @@ Vulnerability assessment
 Adversarial thinking
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🛡️ ENGINEERING
 
@@ -94,7 +94,18 @@ Automation & tooling
 Clean, reliable code
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
+
+### 🔒 DEFENSIVE
+
+SOC operations  
+Threat detection  
+DevSecOps pipelines  
+Security monitoring  
+Incident-oriented thinking
+
+</td>
+<td width="25%" align="center" valign="top">
 
 ### 🧠 EXPLORATION
 
@@ -118,15 +129,85 @@ Things not meant to break
 
 <br>
 
-![Linux](https://skillicons.dev/icons?i=linux,kali,debian,docker,bash,git)
+![Systems](https://skillicons.dev/icons?i=linux,kali,debian,docker,kubernetes,bash,git,gitlab,github)
 
-![Core languages](https://skillicons.dev/icons?i=ts,js,python,java,php,c,cs)
+![Languages](https://skillicons.dev/icons?i=ts,js,python,java,kotlin,php,c,cpp,cs,rust,dart)
 
-![Web stack](https://skillicons.dev/icons?i=nodejs,nestjs,express,react,angular,symfony,spring)
+![Applications](https://skillicons.dev/icons?i=nodejs,nestjs,express,react,angular,symfony,laravel,spring,flutter)
 
-![Data and tools](https://skillicons.dev/icons?i=mysql,mongodb,tailwind,unity,vscode,github)
+![Data](https://skillicons.dev/icons?i=mysql,postgres,mongodb,hibernate,tailwind,bootstrap,vscode)
+
+<br>
+
 
 </div>
+
+<br>
+
+<details open>
+<summary><strong>🔒 &nbsp;CYBERSECURITY // offensive · defensive · research</strong></summary>
+<br>
+
+| Domain | Capabilities |
+|---|---|
+| **Network analysis** | Wireshark · Nmap · Ettercap · tcpdump |
+| **Penetration testing** | Metasploit · Burp Suite |
+| **Wireless security** | Aircrack-ng · Wifite |
+| **Credential auditing** | Hydra · John the Ripper · Medusa |
+| **Web vulnerabilities** | XSS · LFI · RFI · Path Traversal · CSRF · SSRF |
+| **SQL injection** | Manual testing · sqlmap |
+| **DevSecOps** | SAST · SCA · DAST · Container Scanning |
+| **SOC ecosystem** | SIEM · SOAR · EDR · IDS/IPS · MITRE ATT&CK |
+| **Capture the Flag** | [Root-Me — Top 3%](https://www.root-me.org/chadow4) · TryHackMe |
+
+</details>
+
+<details>
+<summary><strong>🌐 &nbsp;WEB & MOBILE // interfaces · APIs · applications</strong></summary>
+<br>
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | HTML · CSS/SCSS · Bootstrap · Tailwind CSS |
+| **JavaScript ecosystem** | JavaScript · TypeScript · Angular · React · Ionic · NestJS |
+| **PHP ecosystem** | PHP · Symfony · Laravel |
+| **JVM ecosystem** | Java · Kotlin · Spring Boot |
+| **Cross-platform** | Dart · Flutter |
+
+</details>
+
+<details>
+<summary><strong>💻 &nbsp;SOFTWARE ENGINEERING // low-level · backend · tooling</strong></summary>
+<br>
+
+`Python` · `C` · `C#` · `C++` · `Rust` · `Java`
+
+</details>
+
+<details>
+<summary><strong>⚙️ &nbsp;DEVOPS & INFRASTRUCTURE // ship · automate · scale</strong></summary>
+<br>
+
+| Domain | Technologies |
+|---|---|
+| **Version control** | Git · GitLab · GitHub |
+| **Delivery** | CI/CD pipelines |
+| **Containers** | Docker · Kubernetes |
+| **Virtualization** | VMware · VirtualBox · KVM · Proxmox |
+
+</details>
+
+<details>
+<summary><strong>💾 &nbsp;DATA // relational · document · persistence</strong></summary>
+<br>
+
+| Domain | Technologies |
+|---|---|
+| **Relational** | MariaDB · MySQL · PostgreSQL · Oracle · PL/SQL |
+| **Document** | MongoDB |
+| **ORM** | Hibernate · Doctrine · TypeORM · Sequelize · SQLAlchemy |
+
+</details>
 
 <br>
 
@@ -142,9 +223,17 @@ Things not meant to break
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
+<div align="center">
+
+## `// BEYOND THE CODE`
+
+`LIFE` &nbsp;×&nbsp; `CURIOSITY` &nbsp;×&nbsp; `COLLABORATION`
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### `> BEYOND_THE_KEYBOARD`
 
@@ -155,7 +244,7 @@ When I'm not writing code or exploring attack surfaces:
 - 🧩 I chase the next difficult problem
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### `> OPEN_CHANNEL`
 
@@ -165,6 +254,18 @@ I'm open to:
 - Open-source collaborations
 - Technical challenges
 - Ideas that sound slightly impossible
+
+</td>
+<td width="33%" valign="top">
+
+### `> PERSONAL_PROTOCOL`
+
+What drives me:
+
+- Curiosity before certainty
+- Precision before speed
+- Learning through experimentation
+- Turning ideas into working systems
 
 </td>
 </tr>
