@@ -1,8 +1,6 @@
 <div align="center">
 
-![CHADOW4 — Offensive Security & Full-Stack Engineering](./chadow4-banner.svg)
-
-<img height="42" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=780&height=42&lines=%3E+Initializing+Chadow4...;%3E+Cybersecurity+%2F%2F+Full-Stack+Engineering;%3E+Breaking+systems+to+build+them+stronger.;%3E+Think.+Exploit.+Patch.+Repeat." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=64&duration=1800&pause=650&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&height=150&lines=CHADOW4;OFFENSIVE+SECURITY;FULL-STACK+ENGINEERING;%3E+ACCESS+GRANTED_" alt="CHADOW4 animated title" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-julien--schz.fr-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julien-schz.fr/)
 [![Root--Me](https://img.shields.io/badge/Root--Me-chadow4-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
@@ -20,7 +18,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### `> IDENTITY_FILE`
 
@@ -37,7 +35,7 @@ I design software, study how systems fail, and turn what I learn into stronger a
 My world sits at the intersection of **offensive security**, **software engineering** and **creative problem-solving**.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### `> CURRENT_MODE`
 
@@ -127,15 +125,13 @@ Things not meant to break
 
 <br>
 
-<img width="720" src="https://skillicons.dev/icons?i=linux,kali,debian,docker,kubernetes,bash,git,gitlab,github,ts,js,python,java,kotlin,php,c,cpp,cs,rust,dart,nodejs,nestjs,express,react,angular,symfony,laravel,spring,flutter,mysql,postgres,mongodb,tailwind,bootstrap,vscode,unity&perline=9" alt="Technology stack" />
-
-<br>
+<img width="540" src="https://skillicons.dev/icons?i=linux,kali,debian,docker,kubernetes,bash,git,gitlab,github,ts,js,python,java,kotlin,php,c,cpp,cs,rust,dart,nodejs,nestjs,express,react,angular,symfony,laravel,spring,flutter,mysql,postgres,mongodb,tailwind,bootstrap,vscode,unity&perline=12" alt="Technology stack" />
 
 </div>
 
 <br>
 
-<details open>
+<details align="center">
 <summary><strong>🔒 &nbsp;CYBERSECURITY // offensive · defensive · research</strong></summary>
 <br>
 
@@ -153,7 +149,7 @@ Things not meant to break
 
 </details>
 
-<details>
+<details align="center">
 <summary><strong>🌐 &nbsp;WEB & MOBILE // interfaces · APIs · applications</strong></summary>
 <br>
 
@@ -167,7 +163,7 @@ Things not meant to break
 
 </details>
 
-<details>
+<details align="center">
 <summary><strong>💻 &nbsp;SOFTWARE ENGINEERING // low-level · backend · tooling</strong></summary>
 <br>
 
@@ -175,7 +171,7 @@ Things not meant to break
 
 </details>
 
-<details>
+<details align="center">
 <summary><strong>⚙️ &nbsp;DEVOPS & INFRASTRUCTURE // ship · automate · scale</strong></summary>
 <br>
 
@@ -188,7 +184,7 @@ Things not meant to break
 
 </details>
 
-<details>
+<details align="center">
 <summary><strong>💾 &nbsp;DATA // relational · document · persistence</strong></summary>
 <br>
 
