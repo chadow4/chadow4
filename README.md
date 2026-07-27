@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=64&duration=1800&pause=650&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&height=150&lines=CHADOW4;OFFENSIVE+SECURITY;FULL-STACK+ENGINEERING;%3E+ACCESS+GRANTED_" alt="CHADOW4 animated title" />
+<img width="100%" src="./assets/chadow4-animated.webp" alt="CHADOW4 animated logo" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-julien--schz.fr-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julien-schz.fr/)
 [![Root--Me](https://img.shields.io/badge/Root--Me-chadow4-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/chadow4)
