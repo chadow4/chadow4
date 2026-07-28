@@ -13,7 +13,7 @@
 
 ## `> whoami`
 
-I'm **Julien**, also known as **Chadow4** — a French cybersecurity engineering student at **INSA**, freelance developer and security enthusiast.
+I'm **Julien**, also known as **Chadow4**, a French **Cybersecurity Engineer** graduated from **INSA**, freelance developer and security enthusiast.
 
 I build full-stack applications, explore how systems fail and use offensive thinking to design stronger architectures. I enjoy CTF challenges, security research and projects that force me to understand what happens beneath the surface.
 
